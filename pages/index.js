@@ -32,7 +32,7 @@ export default function Home() {
             />
             <Intro
               heading="Interests"
-              text="Food expert.Internet fanatic. Travel geek. Coffee fanatic. Novice gardener."
+              text="Food expert.Tech enthusiast. Travel lover. Coffee fanatic. Novice gardener."
             />
           </div>
         </main>
